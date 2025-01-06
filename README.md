@@ -7,7 +7,7 @@ possible
 email: azizbekqudratov537@gmail.com
 telegram: PDP_04
 phone:(+998)948914441
-instagram: asian_devkudratov
+instagram: kudratovdev
  
 
 <!---
