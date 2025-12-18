@@ -3,5 +3,5 @@
 - 📫Please use these networks to contact me.
 possible.
 email: azizbekqudratov537@gmail.com
-telegram: PDP_04
+telegram: azizbekKudratov
 phone: (+998)948914441
