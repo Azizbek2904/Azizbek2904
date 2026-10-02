@@ -4,4 +4,4 @@
 possible.
 email: azizbekqudratov537@gmail.com
 telegram: azizbekKudratov
-phone: (+998)948914441
+phone: (+998)945242904
